@@ -3,4 +3,6 @@
 app to learn how to build static site with nextjs
 
 - [x] create app
-- [] export to github pages
+- [x] export to github pages
+
+access: https://ptcmariano.github.io/hellonextjs

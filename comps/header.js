@@ -6,10 +6,10 @@ const linkStyle = {
 
 const Header = () => (
     <div>
-        <Link href="/">
+        <Link href="/hellonextjs/">
           <a style={linkStyle}>Home</a>
         </Link>
-        <Link href="/about">
+        <Link href="/hellonextjs/about">
           <a style={linkStyle}>About</a>
         </Link>
     </div>
